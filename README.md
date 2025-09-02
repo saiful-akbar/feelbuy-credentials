@@ -62,8 +62,16 @@ pass : pp10101010
 
 ```
 url : https://feelbuyshop.com/phpmyadmin
-db User : root
-db Pass : shop@f3318uy2017
+username : root
+password : shop@f3318uy2017
+```
+
+### 2.2 HRIS
+
+```
+url : https://103.232.67.62:887/phpmyadmin_d71a4f9f07801122/
+username :  hris_db
+password : jKcjHTEaThHx5ST6
 ```
 
 # 3. Github
