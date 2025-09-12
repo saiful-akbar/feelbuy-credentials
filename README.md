@@ -156,6 +156,14 @@ user : fbfileserver
 pass : FEELp@ssw0rd
 ```
 
+### 5.7. Fes Plus
+```
+FTP Win SCP
+IP : 103.232.67.62:21
+user: fesplus
+pass: hCiH3BDHnTTiGHtF
+```
+
 # 6. Daftar akun WIN SCP Toko FB Shop
 
 ### 6.1. Lock & Lock F2C
