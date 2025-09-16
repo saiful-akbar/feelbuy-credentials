@@ -87,7 +87,7 @@ pass : G1thubf3318uy
 
 ```
 email : it@feelbuy.co.id
-email : itf3318uy@2022mantul
+pass : itf3318uy@2022mantul
 url : https://security.google.com/settings/security/apppasswords
 app password : agnmbvhqhdqheret
 ```
