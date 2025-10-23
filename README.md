@@ -66,7 +66,7 @@ username : root
 password : shop@f3318uy2017
 ```
 
-### 2.2 HRIS
+### 2.2 FES Plus atau HRIS
 
 ```
 url : https://103.232.67.62:887/phpmyadmin_d71a4f9f07801122/
