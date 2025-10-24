@@ -225,7 +225,7 @@ pass : f3318uysby
 ```
 IP : 10.10.17.26
 user : jposbekasi
-pass : f3318uybks
+pass : f3318uy
 ```
 
 # 7. Daftar akun lainnya
