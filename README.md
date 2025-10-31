@@ -4,7 +4,7 @@
 
 ```
 url : http://10.10.2.177/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -12,7 +12,7 @@ pass : pp10101010
 
 ```
 url : http://10.10.11.26/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -20,7 +20,7 @@ pass : pp10101010
 
 ```
 url : http://10.10.12.26/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -28,7 +28,7 @@ pass : pp10101010
 
 ```
 url : http://10.10.13.26/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -36,7 +36,7 @@ pass : pp10101010
 
 ```
 url : http://10.10.14.26/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -44,7 +44,7 @@ pass : pp10101010
 
 ```
 url : http://10.10.15.26/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -52,7 +52,7 @@ pass : pp10101010
 
 ```
 url : http://10.10.17.26/posplus/
-usernam : admin
+user : admin
 pass : pp10101010
 ```
 
@@ -82,12 +82,14 @@ pass : mTfH6BLmi5Jm4BSf
 
 # 3. Github
 
+### 3.1 Github Feelbuy
+
 ```
 email : jeffry@feelbuy.co.id
 pass : G1thubf3318uy
 ```
 
-# 4. EMAIL
+# 4. Email
 
 ### 4.1. Email IT
 
