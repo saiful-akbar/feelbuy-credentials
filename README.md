@@ -243,6 +243,22 @@ user : jposbekasi
 pass : f3318uy
 ```
 
+### 6.8. FB Shop untuk Clone
+
+- Credetials OS
+  ```
+  IP:
+  user: feelbuyshop
+  pass: f3318uy
+  ```
+
+- Credentials Database
+  ```
+  host:
+  user: root
+  pass: posfbs10101010
+  ```
+
 # 7. Daftar akun lainnya
 
 ### 7.1. Fes Plus
