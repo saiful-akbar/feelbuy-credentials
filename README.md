@@ -187,7 +187,7 @@ user: fesplus
 pass: hCiH3BDHnTTiGHtF
 ```
 
-# 6. Daftar akun WIN SCP Toko FB Shop
+# 6. Daftar akun WIN SCP FB Shop
 
 ### 6.1. Lock & Lock F2C
 
