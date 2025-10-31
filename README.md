@@ -98,6 +98,16 @@ url : https://security.google.com/settings/security/apppasswords
 app password : agnmbvhqhdqheret
 ```
 
+### 4.2 Email auto
+digunakan untuk aplikasi yang mengirim auto email yang tidak untuk dibalas.
+
+```
+email : no-reply@feelbuy.net
+pass : !F3318uy!
+```
+
+### 4.3 Email IT
+
 ### 4.2. Email Admin Feelbuy
 
 ```
@@ -106,6 +116,11 @@ pass : !F3318uy4dm1n!
 ```
 
 # 5. Daftar akun WIN SCP
+
+```
+email : it@feelbuy.net
+pass : !F3318uy1t!
+```
 
 ### 5.1. FES Lokal
 
