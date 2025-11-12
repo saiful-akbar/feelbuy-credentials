@@ -68,16 +68,18 @@ password : shop@f3318uy2017
 
 ### 2.2 FES Plus atau HRIS
 
+Link [phpMyAdmin](https://103.232.67.62:887/phpmyadmin_d71a4f9f07801122)
+
+HRIS
 ```
-url : https://103.232.67.62:887/phpmyadmin_d71a4f9f07801122/
+User: hris_db
+Pass: jKcjHTEaThHx5ST6
+```
 
-# HRIS
-username :  hris_db
-pass : jKcjHTEaThHx5ST6
-
-# ROOT
-username : root
-pass : mTfH6BLmi5Jm4BSf
+ROOT
+```
+User: root
+Pass: mTfH6BLmi5Jm4BSf
 ```
 
 # 3. Github
