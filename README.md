@@ -232,7 +232,13 @@ pass : pif3318uy
 ### 6.6. FB Shop Pakuwon Surabaya
 
 ```
-IP Webmin : 10.10.15.26:10000
+# Webmin
+IP : 10.10.15.26:10000
+user : jpossby
+pass : f3318uysby
+
+# SFTP
+IP : 10.10.15.26
 user : jpossby
 pass : f3318uysby
 ```
