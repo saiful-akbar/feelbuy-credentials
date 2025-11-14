@@ -1,64 +1,6 @@
-# 1. Akun POSPLUS FB Shop
+# 1. Database
 
-### 1.1. Lock & Lock F2C
-
-```
-url : http://10.10.2.177/posplus/
-user : admin
-pass : pp10101010
-```
-
-### 1.2. FB Shop Central Park
-
-```
-url : http://10.10.11.26/posplus/
-user : admin
-pass : pp10101010
-```
-
-### 1.3. FB Shop Casablanca
-
-```
-url : http://10.10.12.26/posplus/
-user : admin
-pass : pp10101010
-```
-
-### 1.4. FB Shop Gandaria City
-
-```
-url : http://10.10.13.26/posplus/
-user : admin
-pass : pp10101010
-```
-
-### 1.5. FB Shop Plaza Indonesia
-
-```
-url : http://10.10.14.26/posplus/
-user : admin
-pass : pp10101010
-```
-
-### 1.6. FB Shop Pakuwon Surabaya
-
-```
-url : http://10.10.15.26/posplus/
-user : admin
-pass : pp10101010
-```
-
-### 1.7. FB Shop Pakuwon Mall Bekasi
-
-```
-url : http://10.10.17.26/posplus/
-user : admin
-pass : pp10101010
-```
-
-# 2. Database
-
-### 2.1. Feelbuy Shop
+### 1.1. Feelbuy Shop
 
 ```
 url : https://feelbuyshop.com/phpmyadmin
@@ -66,7 +8,7 @@ username : root
 password : shop@f3318uy2017
 ```
 
-### 2.2 FES Plus atau HRIS
+### 1.2 FES Plus atau HRIS
 
 Link [phpMyAdmin](https://103.232.67.62:887/phpmyadmin_d71a4f9f07801122)
 
@@ -80,6 +22,64 @@ ROOT
 ```
 User: root
 Pass: mTfH6BLmi5Jm4BSf
+```
+
+# 2. Akun POSPLUS FB Shop
+
+### 2.1. Lock & Lock F2C
+
+```
+url : http://10.10.2.177/posplus/
+user : admin
+pass : pp10101010
+```
+
+### 2.2. FB Shop Central Park
+
+```
+url : http://10.10.11.26/posplus/
+user : admin
+pass : pp10101010
+```
+
+### 2.3. FB Shop Casablanca
+
+```
+url : http://10.10.12.26/posplus/
+user : admin
+pass : pp10101010
+```
+
+### 2.4. FB Shop Gandaria City
+
+```
+url : http://10.10.13.26/posplus/
+user : admin
+pass : pp10101010
+```
+
+### 2.5. FB Shop Plaza Indonesia
+
+```
+url : http://10.10.14.26/posplus/
+user : admin
+pass : pp10101010
+```
+
+### 2.6. FB Shop Pakuwon Surabaya
+
+```
+url : http://10.10.15.26/posplus/
+user : admin
+pass : pp10101010
+```
+
+### 2.7. FB Shop Pakuwon Mall Bekasi
+
+```
+url : http://10.10.17.26/posplus/
+user : admin
+pass : pp10101010
 ```
 
 # 3. Github
